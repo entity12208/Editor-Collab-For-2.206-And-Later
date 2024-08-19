@@ -1,0 +1,10 @@
+{
+    "id": "editorcollab",
+    "name": "EditorCollab",
+    "version": "1.0.0",
+    "developer": "Entity12208",
+    "description": "An updated version of the Geode mod 'editorcollab' compatible with the latest Geode and Geometry Dash versions.",
+    "dependencies": {
+        "geode": ">=1.0.0"
+    }
+}
