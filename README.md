@@ -1,1 +1,1 @@
-# Editor-Collab-For-2.206-And-Later
+# EditorCollab For 2.206 And Later
