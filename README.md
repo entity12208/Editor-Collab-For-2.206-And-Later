@@ -7,8 +7,22 @@ EditorCollab is a mod for Geometry Dash that enables real-time collaborative edi
 - Ability to add, delete, and modify objects collaboratively
 - Seamless connection to a collaboration server
 
-## Installation
+## File Installation
 
 1. Download the latest release from the [Releases](https://github.com/yourusername/editorcollab/releases) page.
 2. Place the `.geode` file into your Geometry Dash mods folder.
 3. Start Geometry Dash and join a collaborative editing session!
+
+## Source Installation (For Linux)
+
+Run the following commands:
+sudo apt update
+sudo apt install cmake
+git clone https://github.com/entity12208/editorcollab.git
+cd editorcollab
+mkdir build
+cd build
+cmake ..
+make
+
+### Only use this method if the file doesn't work
