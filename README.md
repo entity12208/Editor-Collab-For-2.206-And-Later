@@ -27,3 +27,7 @@ Run the following commands:
 9. make
 
 ### Only use this method if the file doesn't work
+
+# IMPORTANT
+
+### This project is experimental and unfinished. Please join the team to help finish it.
