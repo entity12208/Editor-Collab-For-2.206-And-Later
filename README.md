@@ -17,12 +17,13 @@ EditorCollab is a mod for Geometry Dash that enables real-time collaborative edi
 
 Run the following commands:
 1. sudo apt update
-2. sudo apt install cmake
-3. git clone https://github.com/entity12208/editorcollab.git
-4. cd editorcollab
-5. mkdir build
-6. cd build
-7. cmake ..
-8. make
+2. sudo apt upgrade
+3. sudo apt install cmake
+4. git clone https://github.com/entity12208/editorcollab.git
+5. cd editorcollab
+6. mkdir build
+7. cd build
+8. cmake ..
+9. make
 
 ### Only use this method if the file doesn't work
